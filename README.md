@@ -18,6 +18,5 @@ This project is a simple User Management System built using HTML, JavaScript, an
 
 Frontend: HTML, JavaScript
 
-Backend/Database: Firebase Realtime Database / Firestore
-
+Backend/Database: Firebase Realtime Database / Firestore     
 Authentication (optional): Firebase Auth
